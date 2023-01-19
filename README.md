@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 
 [Website](https://aquati.cat) is inaccessible.
 
-<a href="https://matrix.to/#/@aquaticat:matrix.org" title="@aquaticat:matrix.org">Matrix</a>&nbsp;&nbsp;</span><a href="https://matrix.to/#/#aquaticats:matrix.org" title="Like group of groups. #aquaticats:matrix.org">space</a> has no members.
-
-<a href="https://t.me/aquaticat" title="@aquaticat">Telegram</a>&nbsp;&nbsp;<a href="https://t.me/aquaticat_s" title="aquaticat_s for &quot;Aquaticat&apos;s&quot;">channel</a> has no subscribers.
-
+<a href="https://matrix.to/#/@aquaticat:matrix.org" title="@aquaticat:matrix.org">Matrix</a>&nbsp;&nbsp;</span><a href="https://matrix.to/#/#aquaticats:matrix.org" title="Like group of groups. #aquaticats:matrix.org">space</a> has no members.<br>
+<a href="https://t.me/aquaticat" title="@aquaticat">Telegram</a>&nbsp;&nbsp;<a href="https://t.me/aquaticat_s" title="aquaticat_s for &quot;Aquaticat&apos;s&quot;">channel</a> has no subscribers.<br>
 <a href="https://joinmastodon.org">Mastodon</a> has not been set up.
 
 <a href="https://dribbble.com/Aquaticat">Dribbble</a> has not been updated.
 
-<a href="https://www.reddit.com/user/anAquaticat" title="@anAquaticat">Reddit</a> has exactly zero karma.
+<a href="https://www.reddit.com/user/anAquaticat" title="@anAquaticat">Reddit</a> has exactly zero karma.<br>
+Twitter was banned just after registration.
+Instagram was banned.
+Facebook was deleted.
 
 ---
 
