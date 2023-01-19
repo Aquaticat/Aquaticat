@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <a href="https://dribbble.com/Aquaticat">Dribbble</a> has not been updated.
 
+<a href="https://www.reddit.com/user/anAquaticat" title="@anAquaticat">Reddit</a> has exactly zero karma.
+
 ---
 
 Promises to contribute were not kept.
