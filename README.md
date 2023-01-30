@@ -44,8 +44,8 @@ Ophthalmalgia, migraines, fatigue, …, …, …, … (?).
 
 ---
 
-Never learnt anything, nor will they ever understand something.
+Never learnt anything, nor will they ever understand anything.
 
-Never accomplished anything, nor will they ever gain something.
+Never accomplished anything, nor will they ever gain anything.
 
 Never knew life, nor will they ever confront death.
